@@ -1,0 +1,19 @@
+{
+  "name": "custom-payload",
+  "version": "1.0.0",
+  "description": "words, names for custom payload",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/AleksanderDrobotun/custom-payload.git"
+  },
+  "author": "Aleksander Drobutun",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AleksanderDrobotun/custom-payload/issues"
+  },
+  "homepage": "https://github.com/AleksanderDrobotun/custom-payload#readme"
+}
